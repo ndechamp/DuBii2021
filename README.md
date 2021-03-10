@@ -6,4 +6,4 @@ le 1er projet test pour la 3ème session du module 5
 
 * 1er point
 
-*2nd point
+* 2nd point
